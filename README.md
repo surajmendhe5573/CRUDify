@@ -1,4 +1,4 @@
-# Django CRUDS Project
+# Django CRUD Project
 A simple django CRUDS project that will help to learn the basic operations on database.
 
 ## Setup this Project
