@@ -5,7 +5,7 @@ A simple django CRUDS project that will help to learn the basic operations on da
 
 ### Clone this project
 ```
-git clone https://github.com/Aashishkumar123/django-cruds-project
+git clone https://github.com/surajmendhe5573/CRUDify.git
 ```
 
 ### Install following dependencies
